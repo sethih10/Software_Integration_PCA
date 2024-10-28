@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyQt5](https://img.shields.io/badge/PyQt-5.15+-green.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-1.19+-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Overview
 A Python-based application for facial structure analysis using Principal Component Analysis (PCA). The project specializes in processing and analyzing texture and geometry data from 3D facial models through an intuitive graphical interface.
